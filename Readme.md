@@ -1,6 +1,8 @@
 
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix image"/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumya-khuntia&label=Profile%20views&color=0e75b6&style=flat-square" alt="soumya-khuntia" /> </p>
+
 ## 👋 &nbsp;Hey there, I'm Soumya! &nbsp; <img src='https://img.shields.io/website?url=https%3A%2F%2Fsoumya-ranjan-khuntia.vercel.app%2F'/>
 
 
@@ -34,7 +36,7 @@
 </p>
 <p align='center'>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soumya-khuntia&theme=2077" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soumya-khuntia&theme=2077" height="180em" alt="Top languages By Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soumya-khuntia&theme=2077&exclude=CSS" height="180em" alt="Top languages By Repo"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soumya-khuntia&theme=2077&exclude=CSS" alt="Most Commits Languages"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soumya-khuntia&theme=2077&utcOffset=8" alt='Commits Per Day'/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumya-khuntia&theme=2077" alt='Soumya Ranajn Khuntia'/>
